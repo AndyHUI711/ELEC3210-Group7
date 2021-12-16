@@ -1,8 +1,9 @@
 # ELEC3210-Group7
-#ELEC3210 project Group7 -HUI
-#CopyRight 2021
-#Built on ROS Noetic; Ubuntu 20.04; CoppeliaSim 4.2.0
+ELEC3210 project Group7 -HUI
+CopyRight 2021
+Built on ROS Noetic; Ubuntu 20.04; CoppeliaSim 4.2.0
 # Copy the env.ttt to the folder
+download from ELEC Final project
 
 # Create a work space
 http://wiki.ros.org/catkin/Tutorials/create_a_workspace
@@ -20,7 +21,7 @@ $ cd ~/catkin_ws
 $ catkin_make
 $ . ~/catkin_ws/devel/setup.bash
 
-##steps：
+# steps：
 # roscore
 $ roscore
 
